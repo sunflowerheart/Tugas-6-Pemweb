@@ -39,7 +39,7 @@
 </head>
 <body>
     <nav class = "navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
-        <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Mas Muhammad Aqil Salim</a>
+        <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Yafi Arya Maulana</a>
     </nav>
     <div class="container-fluid">
         <div class="row">
